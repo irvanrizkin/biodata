@@ -10,3 +10,9 @@
         </div>
     </div>
 </template>
+
+<style scoped>
+.white-svg{
+    fill: white;
+}
+</style>
