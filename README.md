@@ -1,4 +1,4 @@
-# myfirstpage
+# Biodata
 
 ## Project setup
 ```
@@ -22,3 +22,8 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## Tools Used
+
+* [Vue.JS](https://vuejs.org/)
+* [TailwindCSS](https://tailwindcss.com/)
