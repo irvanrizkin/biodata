@@ -15,9 +15,9 @@
                     <tr class>
                         <td class="font-bold">Hobby</td>
                         <td>
-                            <div class="inline-block mr-2 mt-2 rounded-full py-2 px-4 bg-orange-400 font-medium transition duration-500 ease-in-out hover:bg-yellow-400 transform hover:-translate-y-1 hover:scale-110">Renang</div>
-                            <div class="inline-block mr-2 mt-2 rounded-full py-2 px-4 bg-orange-400 font-medium transition duration-500 ease-in-out hover:bg-yellow-400 transform hover:-translate-y-1 hover:scale-110">Coding</div>
-                            <div class="inline-block mr-2 mt-2 rounded-full py-2 px-4 bg-orange-400 font-medium transition duration-500 ease-in-out hover:bg-yellow-400 transform hover:-translate-y-1 hover:scale-110">Bersepeda</div>
+                            <div class="inline-block mr-2 mt-2 pills bg-orange-400 font-medium pills-transition">Renang</div>
+                            <div class="inline-block mr-2 mt-2 pills bg-orange-400 font-medium pills-transition">Coding</div>
+                            <div class="inline-block mr-2 mt-2 pills bg-orange-400 font-medium pills-transition">Bersepeda</div>
                         </td>
                     </tr>
                     <tr class>

@@ -1,1 +1,12 @@
 @import "./tailwind.css";
+.pills {
+    @apply rounded-full py-2 px-4;
+}
+
+.pills-transition {
+    @apply transition duration-500 ease-in-out transform;
+}
+
+.pills-transition:hover {
+    @apply bg-yellow-400 -translate-y-1 scale-110
+}
